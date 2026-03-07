@@ -146,7 +146,9 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <a href="https://open.spotify.com/user/316v6224nc7wfwaf2tjqipwbfrcm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316v6224nc7wfwaf2tjqipwbfrcm&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
