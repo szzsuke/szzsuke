@@ -75,7 +75,7 @@
 ###
 
 <div align="left">
-  <a href="www.instagram.com/szzsuke" target="_blank">
+  <a href="https://www.instagram.com/szzsuke" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="codenishkarsh@gmail.com" target="_blank">
@@ -146,9 +146,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/316v6224nc7wfwaf2tjqipwbfrcm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316v6224nc7wfwaf2tjqipwbfrcm&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
