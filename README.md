@@ -1,10 +1,10 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=#f3300e"  />
-</div>
+<h2 align="left">Nishkarsh Shrivastava | Aspiring Software Developer</h2>
 
 ###
 
-<h2 align="left">Nishkarsh Shrivastava | Aspiring Software Developer</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
+</div>
 
 ###
 
@@ -94,6 +94,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/szzsuke/szzsuke/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/szzsuke/szzsuke/output/pacman-contribution-graph.svg">
@@ -102,8 +108,20 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:szzsuke?theme=green&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
 </div>
 
 ###
@@ -118,7 +136,29 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
+</div>
+
+###
+
+<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djB2MjB1NW10cHV0b2J2MGg5NXRuNXl5c2VzbGY5bjZiNWF5ZjhjbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9TWuWoa4ECDF10U4K/giphy.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/316v6224nc7wfwaf2tjqipwbfrcm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316v6224nc7wfwaf2tjqipwbfrcm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h6 align="center">//Probably Coding</h6>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
 </div>
 
 ###
