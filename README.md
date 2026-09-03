@@ -128,7 +128,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=szzsuke&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=szzsuke&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="szzsuke's GitHub Stats" />
    <img src="https://streak-stats.demolab.com/?user=szzsuke&theme=dracula&hide_border=true&cache_seconds=86400" alt="szzsuke's GitHub Streak" width="49%" />
 </div>
 
