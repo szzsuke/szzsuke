@@ -1,4 +1,4 @@
-<h2 align="left">Nishkarsh Shrivastava | Aspiring Software Developer</h2>
+<h2 align="left">Nishkarsh Shrivastava | Aspiring ML Developer</h2>
 
 ###
 
