@@ -129,6 +129,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=szzsuke&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="szzsuke's GitHub Stats" />
+  <br>
    <img src="https://streak-stats.demolab.com/?user=szzsuke&theme=dracula&hide_border=true&cache_seconds=86400" alt="szzsuke's GitHub Streak" width="49%" />
 </div>
 
@@ -146,7 +147,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/316v6224nc7wfwaf2tjqipwbfrcm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316v6224nc7wfwaf2tjqipwbfrcm&count=5" alt="Spotify recently played"  />
+    <img src="https://www.youtube.com/watch?v=E58qLXBfLrs&list=RDE58qLXBfLrs&start_radio=1" alt="Spotify recently played"  />
   </a>
 </div>
 
