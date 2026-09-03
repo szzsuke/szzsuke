@@ -146,7 +146,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/316v6224nc7wfwaf2tjqipwbfrcm">
+  <a href="https://www.youtube.com/watch?v=E58qLXBfLrs&list=RDE58qLXBfLrs&start_radio=1">
     <img src="https://www.youtube.com/watch?v=E58qLXBfLrs&list=RDE58qLXBfLrs&start_radio=1" alt="Spotify recently played"  />
   </a>
 </div>
