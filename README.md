@@ -149,20 +149,6 @@
 
 ###
 
-<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djB2MjB1NW10cHV0b2J2MGg5NXRuNXl5c2VzbGY5bjZiNWF5ZjhjbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9TWuWoa4ECDF10U4K/giphy.gif"  />
-
-###
 
 
 
-###
-
-<h6 align="center">//Probably Coding</h6>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
-</div>
-
-###
