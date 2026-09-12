@@ -2,6 +2,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="szzsuke's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#aa53ac"  />
 </div>
@@ -145,11 +153,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=E58qLXBfLrs&list=RDE58qLXBfLrs&start_radio=1">
-    <img src="https://www.youtube.com/watch?v=E58qLXBfLrs&list=RDE58qLXBfLrs&start_radio=1" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
